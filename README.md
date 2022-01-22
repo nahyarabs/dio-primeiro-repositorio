@@ -1,5 +1,5 @@
 # dio-primeiro-repositorio
-Desafio da DIO sobre criar o primeiro repositório no GitHub
+Desafio da DIO sobre criar o primeiro repositório no GitHub no Bootcamp da Spread
 
 
 ## links uteis 
